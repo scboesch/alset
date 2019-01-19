@@ -11,8 +11,9 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>
-      Now change this project from CodeSandbox and commit your changes to
-      Github.
+      You can edit this application from CodeSandbox. However, it is not yet
+      possible to commit the build files in the public directory back to github
+      using Git.
     </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
